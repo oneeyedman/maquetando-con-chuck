@@ -1,2 +1,3 @@
-# maquetando-con-chuck
-🦄 Repositorio de "Maquetando con Chuck!" :)
+# Maquetando con Chuck!
+
+(Pendiente)
