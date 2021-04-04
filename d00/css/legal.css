@@ -1,0 +1,102 @@
+/* PAGE */
+body {
+  font-family: arial, sans-serif;
+  margin: 0;
+}
+
+/* FORM */
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* CHECKBOX */
+.checkbox {
+  position: relative;
+}
+
+.checkbox__field {
+  position: absolute;
+  left: 4px;
+  top: 7px;
+}
+
+.checkbox__label {
+  cursor: pointer;
+  padding-left: 39px;
+  position: relative;
+  font-size: 16px;
+  line-height: 28px;
+  display: inline-block;
+  max-width: 60ch;
+}
+.checkbox__label::before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  border: 2px solid #0a8250;
+  background-color: white;
+  display: block;
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: absolute;
+  left: 0;
+  top: 2px;
+}
+.checkbox__label::after {
+  content: '✓';
+  color: #0a8250;
+  position: absolute;
+  left: 5px;
+  top: 0.5px;
+  display: none;
+  font-size: 1.1em;
+}
+.checkbox__field:checked + .checkbox__label::after {
+  display: block;
+}
+
+.checkbox__field:focus + .checkbox__label::before {
+  box-shadow: 0 0 4px #0a8250;
+}
+
+
+/* TOOLTIP */
+.checkbox__error {
+  margin: 0;
+  border: 1px solid #c3c3c3;
+  background: #f0f8ee;
+  padding: 14px 12px;
+  border-radius: 5px;
+  position: absolute;
+  left: -42px;
+  bottom: calc(100% + 15px);
+}
+
+.checkbox__error::before,
+.checkbox__error::after {
+  content: '';
+  position: absolute;
+  left: 46px;
+  top: 100%;
+  height: 0;
+  width: 0;
+  border: 10px solid transparent;
+  border-top-color: #c3c3c3;
+  border-width: 11px 7px;
+}
+
+.checkbox__error::after {
+  border-top-color: #f0f8ee;
+  margin-top: -2px;
+}
+
+.checkbox__error-text {
+  margin: 0;
+}
+
+.checkbox__error-text + .checkbox__error-text {
+  margin-top: 1em;
+}
