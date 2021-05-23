@@ -18,3 +18,18 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://www.twitch.tv/videos/1016566325)
 1. **03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://www.twitch.tv/videos/1024538864)
 1. **04 - Footer 2/2** | [Vídeo: `dos horacas`](https://www.twitch.tv/videos/1032377438)
+
+---
+### Temas siguientes
+- CSS, introducción y cómo funciona.
+- CSS a mano: Display
+- CSS a mano: Posicionamiento
+- CSS a mano: Flex
+- CSS a mano: Grid
+- Preprocesadores
+- Configurar nuestro editor
+  - Extensiones
+  - Editorconfig
+- Linter de css/scss
+- Organizar nuestro proyecto
+- [👍 Quieres proponer un tema o elemento?](https://github.com/oneeyedman/maquetando-con-chuck/issues/1)
