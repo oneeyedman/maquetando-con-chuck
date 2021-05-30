@@ -18,6 +18,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://www.twitch.tv/videos/1016566325)
 1. **03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://www.twitch.tv/videos/1024538864)
 1. **04 - Footer 2/2** | [Vídeo: `dos horacas`](https://www.twitch.tv/videos/1032377438)
+1. **05 - CSS, introducción y cómo se usa** | [Vídeo: `1h y 20`](https://www.twitch.tv/videos/1040101112)
 
 ---
 ### Temas siguientes
