@@ -15,7 +15,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 1. **00 -Tooltip** | [Vídeo 1: `45 min`](https://www.youtube.com/watch?v=pwtNFzrbNAM), [vídeo 2: `casi 1h`](https://www.youtube.com/watch?v=SqGFoHnJg60)
 1. **01 - HTML (y semántica)** | [Vídeo: `1h y cuarto`](https://www.youtube.com/watch?v=5vATBkG4Ijw)
-1. **02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://www.twitch.tv/videos/1016566325)
+1. **02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://youtu.be/UTLDi4RBx0U)
 1. **03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://www.twitch.tv/videos/1024538864)
 1. **04 - Footer 2/2** | [Vídeo: `dos horacas`](https://www.twitch.tv/videos/1032377438)
 1. **05 - CSS, introducción y cómo se usa** | [Vídeo: `1h y 20`](https://www.twitch.tv/videos/1040101112)
