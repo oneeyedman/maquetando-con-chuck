@@ -19,11 +19,10 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://youtu.be/5WGKZnxy4b4)
 1. **04 - Footer 2/2** | [Vídeo: `dos horacas`](https://youtu.be/tVqJOHIjB0w)
 1. **05 - CSS, introducción y cómo se usa** | [Vídeo: `1h y 20`](https://www.twitch.tv/videos/1040101112)
+1. **06 - CSS: Display** | [Vídeo: `Casi 1h`](https://www.twitch.tv/videos/1047563750)
 
 ---
 ### Temas siguientes
-- CSS, introducción y cómo funciona.
-- CSS a mano: Display
 - CSS a mano: Posicionamiento
 - CSS a mano: Flex
 - CSS a mano: Grid
