@@ -17,13 +17,13 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **01 - HTML (y semántica)** | [Vídeo: `1h y cuarto`](https://www.youtube.com/watch?v=5vATBkG4Ijw)
 1. **02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://youtu.be/UTLDi4RBx0U)
 1. **03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://youtu.be/5WGKZnxy4b4)
-1. **04 - Footer 2/2** | [Vídeo: `dos horacas`](https://youtu.be/tVqJOHIjB0w)
+1. **04 - Footer 2/2** | [Vídeo: `Dos horacas`](https://youtu.be/tVqJOHIjB0w)
 1. **05 - CSS, introducción y cómo se usa** | [Vídeo: `1h y 20`](https://www.twitch.tv/videos/1040101112)
 1. **06 - CSS: Display** | [Vídeo: `Casi 1h`](https://www.twitch.tv/videos/1047563750)
+1. **07 - CSS: Position** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1054818567)
 
 ---
 ### Temas siguientes
-- CSS a mano: Posicionamiento
 - CSS a mano: Flex
 - CSS a mano: Grid
 - Preprocesadores
