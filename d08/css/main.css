@@ -1,0 +1,40 @@
+html {
+  font-size: 32px;
+}
+body {
+  margin: 2rem;
+}
+.flex-container {
+  background-color: gold;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+.flex-item {
+  background-color: tomato;
+  width: 300px;
+}
+
+.flex-item--1 {
+
+}
+.flex-item--2 {
+  background-color: lime;
+}
+.flex-item--3 {
+  background-color: #c0ffee;
+}
+
+.news {
+  display: none;
+  flex-direction: column;
+  align-items: start;
+}
+.news__title {}
+.news__img {
+  order: -1;
+}
+.news__summary {}
