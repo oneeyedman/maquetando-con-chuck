@@ -22,10 +22,10 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **06 - CSS: Display** | [Vídeo: `Casi 1h`](https://www.twitch.tv/videos/1047563750)
 1. **07 - CSS: Position** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1054818567)
 1. **08 - CSS: Flex** | [Vídeo: `Casi 3h`](https://www.twitch.tv/videos/1061931165)
+1. **09 - CSS: Grid** | [Vídeo: `Más de 3h`](https://www.twitch.tv/videos/1069129885)
 
 ---
 ### Temas siguientes
-- CSS a mano: Grid
 - Preprocesadores
 - Configurar nuestro editor
   - Extensiones
