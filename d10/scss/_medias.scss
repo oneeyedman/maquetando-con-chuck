@@ -1,0 +1,10 @@
+@media (min-width: rem(600)) {
+  .box:hover {
+    background-color: lime;
+  }
+}
+@media (min-width: rem(1600)) {
+  .box:hover {
+    background-color: red;
+  }
+}

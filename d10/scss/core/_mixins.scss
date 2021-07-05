@@ -1,0 +1,26 @@
+@mixin prideLine() {
+  background: gold;
+  height: rem(5);
+  content: '';
+  display: block;
+}
+
+
+@mixin font($type) {
+  @if $type == h1 {
+    font-size: rem(50);
+    color: gold;
+  }
+
+  @if $type == h2 {
+    font-size: rem(30);
+    color: lime;
+  }
+
+  @if $type == h3 {
+    font-size: rem(24);
+  }
+
+  font-weight: normal;
+  text-decoration: underline;
+}

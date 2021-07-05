@@ -1,0 +1,25 @@
+// Comentario solo de SCSS
+/* Comentarion que no sale en modo comprimido */
+/*! Comentario que sale sí o sí */
+@import 'core/vars';
+@import 'core/mixins';
+@import 'core/functions';
+@import 'components/page';
+@import 'components/box';
+
+@import 'medias';
+
+
+.header {
+  z-index: index($levels, header);
+}
+.main {
+  z-index: index($levels, content);
+}
+.modal {
+  z-index: index($levels, modals);
+}
+
+.ad {
+  z-index: index($levels, ad);
+}
