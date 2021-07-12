@@ -24,12 +24,10 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **08 - CSS: Flex** | [Vídeo: `Casi 3h`](https://www.twitch.tv/videos/1061931165)
 1. **09 - CSS: Grid** | [Vídeo: `Más de 3h`](https://www.twitch.tv/videos/1069129885)
 1. **10 - SASS/SCSS** | [Vídeo: `Dos horas y media`](https://www.twitch.tv/videos/1076263962)
+1. **11 - VS Code** | [Vídeo: `Dos horas y media`](https://www.twitch.tv/videos/1076263962)
 
 ---
 ### Temas siguientes
-- Configurar nuestro editor
-  - Extensiones
-  - Editorconfig
-- Linter de css/scss
 - Organizar nuestro proyecto
+- Linter de css/scss
 - [👍 Quieres proponer un tema o elemento?](https://github.com/oneeyedman/maquetando-con-chuck/issues/1)
