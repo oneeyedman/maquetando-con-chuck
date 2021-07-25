@@ -1,0 +1,16 @@
+.wrapper {
+  margin: 0 25px;
+}
+
+@media (min-width: 768px){
+  .wrapper {
+    margin: 0 50px;
+  }
+}
+
+@media (min-width: 1200px){
+  .wrapper {
+    margin: 0 auto;
+    width: 1100px;
+  }
+}

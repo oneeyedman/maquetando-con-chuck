@@ -1,0 +1,8 @@
+@import 'core/_vars.scss';
+
+@media print {
+  body {
+    background-color: white;
+    font-size: rem($size);
+  }
+}

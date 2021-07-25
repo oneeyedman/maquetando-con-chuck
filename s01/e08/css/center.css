@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+}
+.page {
+  height: 100%;
+}
+.page__main {
+  height: 100%;
+}
+
+.hero {
+  background: url(https://images.unsplash.com/photo-1551916367-17bd05248d87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1558&q=80) center no-repeat;
+  background-size: cover;
+
+  text-align: center;
+  height:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  min-height: 300px;
+}
+
+.hero .wrapper {
+}
+
+.hero__title {
+  font-size: 10vw;
+  margin: 0;
+}
+
+.hero__headline {
+  margin: 0;
+  font-size: 5vw;
+}
+
+.hero__credits {
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
+  margin: 0;
+}
+.box {
+  font-size: 3em;
+  background: tomato;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}

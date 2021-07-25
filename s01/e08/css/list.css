@@ -1,0 +1,38 @@
+body {
+  background: #e4e5e6;
+  font-size: 32px;
+}
+.page {}
+.page__main {}
+.results {}
+.results__title {
+}
+.results__list {
+  margin: 0;
+  padding: 30px;
+  list-style:none;
+  background: lime;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.results__item {
+  width: 12em;
+}
+.product {
+  background-color: #fff;
+  padding: .5em;
+  border-radius: 10px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.product__image {
+  width:100%;
+}
+.product__name {
+  font-size: .8em;
+}
+.product__description {
+  font-size: .5em;
+}
