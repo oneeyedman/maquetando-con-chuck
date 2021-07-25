@@ -18,7 +18,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **S01E02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://youtu.be/UTLDi4RBx0U)
 1. **S01E03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://youtu.be/5WGKZnxy4b4)
 1. **S01E04 - Footer 2/2** | [Vídeo: `Dos horacas`](https://youtu.be/tVqJOHIjB0w)
-1. **S01E05 - CSS, introducción y cómo se usa** | [Vídeo: `1h y 20`]( https://youtu.be/nb1PVduHPME )
+1. **S01E05 - CSS, introducción y cómo se usa** | [Vídeo: `1h y 20`](https://youtu.be/nb1PVduHPME)
 1. **S01E06 - CSS: Display** | [Vídeo: `Casi 1h`](https://www.twitch.tv/videos/1047563750)
 1. **S01E07 - CSS: Position** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1054818567)
 1. **S01E08 - CSS: Flex** | [Vídeo: `Casi 3h`](https://www.twitch.tv/videos/1061931165)
