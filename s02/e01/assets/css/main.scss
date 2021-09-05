@@ -1,0 +1,156 @@
+$font_size: 16;
+$color-white: #fff;
+$color-primary: #29A0D3;
+$color-primary-hover: #0076A4;
+$color-primary-disabled: #c4c4c4;
+$color-media: #D32929;
+
+@mixin with-icon() {
+	display: grid;
+	gap: rem(5);
+	grid-template-columns: 1fr rem(24);
+	align-items: center;
+
+	&::after {
+		content: '';
+		display: block;
+		width: rem(24);
+		height: rem(24);
+	}
+}
+
+@mixin sr() {
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	height: 1px;
+	width: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+}
+
+@function rem( $pixels, $context: $font_size ) {
+	@return ( $pixels / $context * 1rem );
+}
+
+body {
+	margin: 0;
+	font-family: Roboto, arial, sans-serif;
+}
+
+button {
+	font: inherit;
+}
+
+.sr {
+	@include sr();
+}
+
+
+.button {
+	background-color: $color-primary;
+	line-height: rem(45);
+	padding: 0 rem(12);
+	border: 0;
+	display: inline-block;
+	color: $color-white;
+	text-decoration: none;
+	border-radius: rem(45/2);
+	min-width: rem(225);
+	box-sizing: border-box;
+	text-align: center;
+	cursor: pointer;
+	transition: background-color ease .3s;
+
+	&:hover {
+		background-color: $color-primary-hover;
+	}
+
+	&:disabled {
+		background-color: $color-primary-disabled;
+		cursor: default;
+	}
+}
+
+.button--disabled {
+	background-color: $color-primary-disabled;
+	cursor: default;
+	pointer-events: none;
+}
+
+.button--arrow {
+	@include with-icon();
+
+	&::after {
+		background: url(../img/layout/ico-arrow.svg) left top no-repeat;
+		background-size: rem(24);
+	}
+}
+
+
+.button--tertiary {
+	background-color: transparent;
+	box-shadow: inset 0 0 0 rem(1) currentColor;
+	color: $color-primary;
+	&:hover {
+		background-color: transparent;
+		color: $color-primary-hover;
+		&.button--arrow {
+			&::after {
+				background-position: rem(24 * -1) top;
+			}
+		}
+	}
+	&:disabled {
+		background-color: transparent;
+		color: $color-primary-disabled;
+		&.button--arrow {
+			&::after {
+				background-position: rem(24 * -2) top;
+			}
+		}
+	}
+
+	&.button--arrow {
+		&::after {
+			background: url(../img/layout/ico-arrow-tertiary.svg) left top no-repeat;
+			background-size: rem(24*3) rem(24) ;
+		}
+	}
+}
+
+.button--play {
+	@include with-icon();
+	background-color: $color-media;
+	min-width: auto;
+	padding-left: rem(24);
+
+	&::after {
+		background: url(../img/layout/ico-play.svg) left top no-repeat;
+		background-size: rem(24);
+	}
+
+	&:hover {
+		background-color: $color-media;
+	}
+}
+
+.button--play-mini {
+	width: rem(45);
+	height: rem(45);
+	padding: 0;
+	display: block;
+	position: relative;
+
+	&::after {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
+	
+	.button__label {
+		@include sr();
+	}
+}

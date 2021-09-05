@@ -13,23 +13,32 @@ Por eso, unos domingos cada mes, voy a estar maquetando en directo un ratico.
 ## Sesiones
 Durante unos días los vídeos seguirán en el canal de Twitch pero luego los dejaré subidos en Youtube en [esta playlist](https://www.youtube.com/playlist?list=PLO-mtrYE0827SRqJnPOOU1OQLbN_OZpT6).
 
+### Termporada 2
+
+1. **S02E01 - Botones** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1139620159)
+
+---
+
+### Temporada 1
+
 1. **S01E00 - Tooltip** | [Vídeo 1: `Casi 1h`](https://www.youtube.com/watch?v=pwtNFzrbNAM), [vídeo 2: `casi 1h`](https://www.youtube.com/watch?v=SqGFoHnJg60)
 1. **S01E01 - HTML (y semántica)** | [Vídeo: `1h y cuarto`](https://www.youtube.com/watch?v=5vATBkG4Ijw)
 1. **S01E02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://youtu.be/UTLDi4RBx0U)
 1. **S01E03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://youtu.be/5WGKZnxy4b4)
 1. **S01E04 - Footer 2/2** | [Vídeo: `Dos horacas`](https://youtu.be/tVqJOHIjB0w)
 1. **S01E05 - CSS, introducción y cómo se usa** | [Vídeo: `1h y 20`](https://youtu.be/nb1PVduHPME)
-1. **S01E06 - CSS: Display** | [Vídeo: `Casi 1h`](https://www.twitch.tv/videos/1047563750)
-1. **S01E07 - CSS: Position** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1054818567)
-1. **S01E08 - CSS: Flex** | [Vídeo: `Casi 3h`](https://www.twitch.tv/videos/1061931165)
-1. **S01E09 - CSS: Grid** | [Vídeo: `Más de 3h`](https://www.twitch.tv/videos/1069129885)
-1. **S01E10 - SASS/SCSS** | [Vídeo: `Dos horas y media`](https://www.twitch.tv/videos/1076263962)
-1. **S01E11 - VS Code** | [Vídeo: `Más de 1h y media`](https://www.twitch.tv/videos/1083295793)
-1. **S01E12 - Proyectos** | [Vídeo: `1h y algo`](https://www.twitch.tv/videos/1097491184)
+1. **S01E06 - CSS: Display** | [Vídeo: `Casi 1h`](https://youtu.be/ccluG1Mwepg)
+1. **S01E07 - CSS: Position** | [Vídeo: `Casi 2h`](https://youtu.be/zXHPgzCWsx4)
+1. **S01E08 - CSS: Flex** | [Vídeo: `Casi 3h`](https://youtu.be/4p_rxHkF-sM)
+1. **S01E09 - CSS: Grid** | [Vídeo: `Más de 3h`](https://youtu.be/17bhRbGr_oo)
+1. **S01E10 - SASS/SCSS** | [Vídeo: `Dos horas y media`](https://youtu.be/HSC4_yrzP94)
+1. **S01E11 - VS Code** | [Vídeo: `Más de 1h y media`](https://youtu.be/dLceE1kW604)
+1. **S01E12 - Proyectos** | [Vídeo: `1h y algo`](https://youtu.be/_z5Ry7uY6NA)
 
 ---
+
 ### Temas siguientes
-- Vuelvo en Septiembre y organizaré una temporada 2, DOH!
+
 - Linter de css/scss
 - Sistema de plantillas: Nunjucks
 - Generador de estáticos: 11ty
