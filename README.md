@@ -16,6 +16,8 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 ### Termporada 2
 
 1. **S02E01 - Botones** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1139620159)
+1. **S02E02 - Input:file** | [Vídeo: `1h, ma o meno`](https://www.twitch.tv/videos/1146423165)
+1. **S02E03 - Botones** | [Vídeo: `Poco más de 1h y cuarto`](https://www.twitch.tv/videos/1153109182)
 
 ---
 
