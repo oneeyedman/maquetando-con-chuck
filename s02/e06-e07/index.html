@@ -8,52 +8,75 @@
 	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-	<div class="page">
-		<header class="page__header">
+	<div class="page js__page">
+		<header class="page__header js__page-header">
 			<div class="container">
 				<div class="logo">Planet X</div>
 
 				<nav class="page__nav">
 					<ol class="menu">
 						<li class="menu__item">
-							<a href="">Inicio</a>
+							<a href="" class="menu__link">Inicio</a>
 						</li>
-						<li class="menu__item">
-							<a href="">Recursos</a>
+						<li class="menu__item menu__item--with-submenu js__submenu-container">
+							<a href="#distribuidora-recursos" class="menu__link js__submenu-toggl">Recursos</a>
 							
-							<ol class="menu">
+							<ol class="menu submenu js__submenu">
 								<li class="menu__item">
-									<a href="">Humanos</a>
+									<a href="" class="menu__link">Humanos</a>
 								</li>
 								<li class="menu__item">
-									<a href="">Gatos</a>
+									<a href="" class="menu__link">Gatos</a>
 								</li>
 								<li class="menu__item">
-									<a href="">Perros</a>
+									<a href="" class="menu__link">Perros</a>
 								</li>
 								<li class="menu__item">
-									<a href="">Politicos</a>
+									<a href="" class="menu__link">Politicos</a>
 								</li>
 								<li class="menu__item">
-									<a href="">Mosquitos</a>
+									<a href="" class="menu__link">Mosquitos</a>
 								</li>
 							</ol>
 
 						</li>
 						<li class="menu__item">
-							<a href="">FAQ</a>
+							<a href="" class="menu__link">FAQ</a>
 						</li>
 						<li class="menu__item">
-							<a href="">Contacto</a>
+							<a href="" class="menu__link">Contacto</a>
+						</li>
+						<li class="menu__item menu__item--with-submenu js__submenu-container">
+							<a href="#distribuidora-recursos" class="menu__link js__submenu-toggl">Recursos 2, el regreso</a>
+						
+							<ol class="menu submenu js__submenu">
+								<li class="menu__item">
+									<a href="" class="menu__link">Humanos 2</a>
+								</li>
+								<li class="menu__item">
+									<a href="" class="menu__link">Gatos 2</a>
+								</li>
+								<li class="menu__item">
+									<a href="" class="menu__link">Perros 2</a>
+								</li>
+								<li class="menu__item">
+									<a href="" class="menu__link">Politicos 0</a>
+								</li>
+								<li class="menu__item">
+									<a href="" class="menu__link">Mosquitos 0</a>
+								</li>
+							</ol>
+						
 						</li>
 					</ol>
 
-					<button class="menu__close">Cerrar menú</button>
+					<button class="menu__close js__menu-close">Cerrar menú</button>
 				</nav>
 
-				<button class="menu__trigger">Abrir menú</button>
+				<button class="menu__trigger js__menu-open">Abrir menú</button>
 			</div>
 		</header>
 	</div>
+	<script src="js/menu.js"></script>
 </body>
 </html>

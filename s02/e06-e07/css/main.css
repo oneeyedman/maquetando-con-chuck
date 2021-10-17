@@ -1,3 +1,4 @@
+/* ANCHOR PAGE */
 body {
 	margin: 0;
 	font-size: 40px;
@@ -8,14 +9,6 @@ body {
 	overflow: hidden;
 	min-height: 100vh;
 	min-height: -webkit-fill-available;
-}
-
-
-
-
-
-.page__header {
-	background-color: white;
 }
 
 .container {
@@ -29,6 +22,12 @@ body {
 
 
 
+
+/* ANCHOR HEADER */
+.page__header {
+	background-color: white;
+}
+
 .logo {
 	position: relative;
 	z-index: 2;
@@ -40,41 +39,61 @@ body {
 	left: 0;
 	top: 0;
 	transform: translateX(-120%);
-	transform: translateX(0);
 	transition: transform ease .5s;
 	min-height: 100vh;
 	min-height: -webkit-fill-available;
 	z-index: 1;
+	padding-top: 75px;
 }
-
-.menu {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-.menu__item { }
-
-
 
 .page__header--menu-visible .page__nav {
 	transform: translateX(0);
 }
 
+/* ANCHOR MENU */
+.menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.menu__item { }
+
+.menu__item--with-submenu > .menu__link {
+	color: yellow;
+}
+
+.menu__item--with-submenu > .menu__link::after {
+	content: 'v';
+	margin:0 .25em;
+	display: inline-block;
+	color: black;
+}
+
+/* ANCHOR SUBMENU */
+.submenu {
+	display: none;
+}
+
+.submenu--visible {
+	display: block;
+}
 
 
 
 
 
+/* ANCHOR BUTTONS */
+.menu__trigger,
+.menu__close {
+	cursor: pointer;
+}
 
 
 
-.menu__trigger {}
-.menu__close {}
 
 
-
-
-
+/* ANCHOR MQ 768 */
 @media screen and (min-width: 768px) {
 	.container {
 		background: gold;
@@ -83,6 +102,7 @@ body {
 		position: static;
 		transform: none;
 		min-height: auto;
+		transition: none;
 	}
 
 	.menu {
