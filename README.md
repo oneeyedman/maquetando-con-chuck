@@ -20,6 +20,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **S02E05 - Modales (3)** | [Vídeo: `Casi 1h y media`](https://www.twitch.tv/videos/1166182876)
 1. **S02E06 - Menú (1)** | [Vídeo: `Casi 1h y cuarto`](https://www.twitch.tv/videos/1172701615)
 1. **S02E07 - Menú (2)** | [Vídeo: `Casi 1h y cuarto`](https://www.twitch.tv/videos/1179174885)
+1. **S02E08 - Menú (3)** | [Vídeo: `2h y media`](https://www.twitch.tv/videos/1185550754)
 
 ---
 
