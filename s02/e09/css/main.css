@@ -1,0 +1,26 @@
+.paco {
+	left: 0;
+}
+
+.paquito {
+	top: 0;
+
+	background-color: red;
+}
+
+.paquete {
+	position: absolute;
+	left: 0;
+	top: 0;
+
+	background: url(paco.svg) left top no-repeat;
+	background-size: cover;
+	border: 1px solid red;
+	border-width: 3px;
+	border-radius: 3px solid #F00;
+
+	box-sizing: border-box;
+	column-gap: 20px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
