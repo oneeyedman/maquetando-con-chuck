@@ -22,6 +22,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **S02E07 - Menú (2)** | [Vídeo: `Casi 1h y cuarto`](https://www.twitch.tv/videos/1179174885)
 1. **S02E08 - Menú (3)** | [Vídeo: `2h y media`](https://www.twitch.tv/videos/1185550754)
 1. **S02E09 - CSS Comb** | [Vídeo: `Media hora larga`](https://www.twitch.tv/videos/1191975388)
+1. **S02E10 - Checkbox y radio, accesibles y sin JS** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1198593093)
 
 ---
 

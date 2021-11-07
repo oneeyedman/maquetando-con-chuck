@@ -1,0 +1,10 @@
+@mixin focus($type) {
+	@if $type == switch {
+		box-shadow: 0 0 0 1px #e4e5e6,
+		0 0 4px 1px rgba($color-switch, 1);
+	} @else {
+		box-shadow: 0 0 0 1px #e4e5e6,
+		0 0 4px 1px rgba($color-checkbox, 1),
+		inset 0 0 0 2px $color-checkbox;
+	}
+};
