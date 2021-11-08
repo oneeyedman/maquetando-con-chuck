@@ -13,16 +13,16 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 ### Termporada 2
 
-1. **S02E01 - Botones** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1139620159)
-1. **S02E02 - Input:file** | [Vídeo: `1h, ma o meno`](https://www.twitch.tv/videos/1146423165)
-1. **S02E03 - Modales (1)** | [Vídeo: `Poco más de 1h y cuarto`](https://www.twitch.tv/videos/1153109182)
-1. **S02E04 - Modales (2)** | [Vídeo: `Casi 1h y cuarto`](https://www.twitch.tv/videos/1159663704)
-1. **S02E05 - Modales (3)** | [Vídeo: `Casi 1h y media`](https://www.twitch.tv/videos/1166182876)
-1. **S02E06 - Menú (1)** | [Vídeo: `Casi 1h y cuarto`](https://www.twitch.tv/videos/1172701615)
-1. **S02E07 - Menú (2)** | [Vídeo: `Casi 1h y cuarto`](https://www.twitch.tv/videos/1179174885)
-1. **S02E08 - Menú (3)** | [Vídeo: `2h y media`](https://www.twitch.tv/videos/1185550754)
-1. **S02E09 - CSS Comb** | [Vídeo: `Media hora larga`](https://www.twitch.tv/videos/1191975388)
-1. **S02E10 - Checkbox y radio, accesibles y sin JS** | [Vídeo: `Casi 2h`](https://www.twitch.tv/videos/1198593093)
+1. **S02E01 - Botones** | [Vídeo: `Casi 2h`](https://youtu.be/EPJY2-N5yFw)
+1. **S02E02 - Input:file** | [Vídeo: `1h, ma o meno`](https://youtu.be/1kN-p2IPsBs)
+1. **S02E03 - Modales (1)** | [Vídeo: `Poco más de 1h y cuarto`](https://youtu.be/j3P2a0A_XdI)
+1. **S02E04 - Modales (2)** | [Vídeo: `Casi 1h y cuarto`](https://youtu.be/XtGzGPbaO_Y)
+1. **S02E05 - Modales (3)** | [Vídeo: `Casi 1h y media`](https://youtu.be/MOx-_22j9Pc)
+1. **S02E06 - Menú (1)** | [Vídeo: `Casi 1h y cuarto`](https://youtu.be/D4W_EL8W_1o)
+1. **S02E07 - Menú (2)** | [Vídeo: `Casi 1h y cuarto`](https://youtu.be/rpJOkF_bEA4)
+1. **S02E08 - Menú (3)** | [Vídeo: `2h y media`](https://youtu.be/Xsv9NlWP21w)
+1. **S02E09 - CSS Comb** | [Vídeo: `Media hora larga`](https://youtu.be/mDZu_E4pgok)
+1. **S02E10 - Checkbox y radio, accesibles y sin JS** | [Vídeo: `Casi 2h`](https://youtu.be/wf0R8G5kY-Q)
 
 ---
 
