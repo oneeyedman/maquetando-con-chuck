@@ -1,10 +1,10 @@
 # Maquetando con Chuck!
 
-El origen de estos vídeos es porque cuando estaba de profe en un bootcamp eché mucho en falta poder haber hecho suficiente énfasis en la importancia de la semántica a la hora de maquetar.
+Maquetar es de las cosas que más me molan, que más impacto tiene y que menos se respetan.
 
-Luego tb pasa que hay mucho contenido de front con javascript y no tanto de maquetación y semántica.
+Por eso, el domingo quiero dedicar un rato a **maquetar en directo**. A recalcar la importancia de la **semántica**, a animarnos a hacer nuestos componentes **más accesibles** y a que todo el javascript del mundo da igual sin una base sólida de HTML y CSS.
 
-Por eso, unos domingos cada mes, voy a estar maquetando en directo un ratico.
+**¿Te bajas a maquetar?** ¿o qué?
 
 ![Maquetando con Chuck!](maquetando-con-chuck.png)
 
