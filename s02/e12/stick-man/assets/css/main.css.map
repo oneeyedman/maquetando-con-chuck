@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,IAAI,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,CAAC;CACT;;ACJD,AAAA,UAAU,CAAC;EACV,KAAK,EFAG,SAAgB;EECxB,MAAM,EFDE,SAAgB;EEExB,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,IAAI;EAChB,QAAQ,EAAE,QAAQ;CAClB;;AAED,AAAA,UAAU,AAAA,QAAQ,CAAC;EAClB,OAAO,EAAE,EAAE;EACX,QAAQ,EAAE,QAAQ;EAClB,IAAI,EAAE,CAAC;EACP,GAAG,EAAE,CAAC;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,yBAAyB;EACrC,OAAO,EAAE,EAAE;CACX",
+    "sources": [
+        "main.scss",
+        "_vars.scss",
+        "_functions.scss",
+        "_layout.scss",
+        "_stick-man.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

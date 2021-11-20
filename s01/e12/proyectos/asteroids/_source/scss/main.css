@@ -1,0 +1,12 @@
+.accessible-hide {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  margin: 0 !important;
+  overflow: hidden;
+  position: absolute;
+}
+
+.hidden {
+  display: none;
+}
+/*# sourceMappingURL=main.css.map */
