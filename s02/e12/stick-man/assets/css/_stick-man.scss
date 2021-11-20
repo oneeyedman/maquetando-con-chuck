@@ -1,18 +1,171 @@
 .stick-man {
-	width: em(285);
+	color: black;
 	height: em(589);
 	margin: auto;
-	background: pink;
 	position: relative;
+	width: em(285);
 }
 
 .stick-man::before {
-	content: '';
-	position: absolute;
+	background: url(../img/stick-man.png);
+	height: 100%;
 	left: 0;
+	opacity: .3;
+	//content: '';
+	position: absolute;
 	top: 0;
 	width: 100%;
-	height: 100%;
-	background: url(../img/stick-man.png);
-	opacity: .3;
+	z-index: index($levels, overlay);
+}
+
+.stick-man::after {
+	background: $color-shadow;
+	border-radius: 50%;
+	bottom: em(-8);
+	content: '';
+	filter: blur(4px);
+	height: em(65);
+	left: 50%;
+	position: absolute;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: index($levels, shadow);
+}
+
+
+.stick-man__head {
+	border: em($stick-width) solid currentColor;
+	border-radius: 50%;
+	box-sizing: border-box;
+	display: flex;
+	height: em(240);
+	margin: auto;
+	position: relative;
+	width: em(240);
+}
+
+.stick-man__face {
+	font-family: Roboto Slab;
+	font-size: em(65);
+	font-weight: bold;
+	letter-spacing: em(3);
+	margin: auto;
+	transform: translate( em(2), em(-2));
+
+	&::before {
+		content: 'ojo';
+	}
+}
+
+.stick-man__body {
+	background: currentColor;
+	border-radius: 0 0 em(10) em(10);
+	height: em(195);
+	margin: em(-2) auto 0;
+	position: relative;
+	width: em($stick-width);
+	z-index: index($levels, body);
+}
+
+.stick-man__left-arms {
+	background-color: currentColor;
+	border-radius: em(10);
+	height: em($stick-width);
+	left: em(8);
+	position: absolute;
+	top: em(18);
+	transform-origin: left center;
+	width: em(140);
+}
+
+.stick-man__left-arms--left {
+	transform: rotate(30deg);
+}
+
+.stick-man__left-arms--right {
+	left: em(12);
+	transform: rotate(150deg);
+}
+
+.stick-man__feet {
+	background-color: currentColor;
+	border-radius: em(10);
+	height: em($stick-width);
+	left: em(7);
+	position: absolute;
+	top: em(158);
+	transform-origin: left center;
+	width: em(180);
+}
+
+.stick-man__feet--left {
+	transform: rotate(63deg);
+}
+
+.stick-man__feet--right {
+	left: em(12);
+	transform: rotate(118deg);
+}
+
+
+
+
+
+
+.stick-man--blue {
+	color: $color-correct-blue;
+}
+
+
+
+
+
+
+.stick-man--red {
+	color: $color-red;
+}
+
+
+
+
+
+
+.stick-man--spiderman {
+	.stick-man__face {
+		&::before {
+			background: linear-gradient(to left, $color-black 0%, $color-black 45%, $color-red 45%, $color-red 70%, $color-black 70%, $color-black 100%);
+			background-clip: text;
+
+			-webkit-text-fill-color: transparent;
+		}
+	}
+
+	.stick-man__body {
+		background-color: $color-correct-blue;
+
+		&::before {
+			background-color: $color-red;
+			border-radius: 0 0 em(10) em(10);
+			content: '';
+			height: em(60);
+			left: 0;
+			position: absolute;
+			top: 0;
+			width: 100%;
+		}
+	}
+
+	.stick-man__feet {
+		background-color: $color-correct-blue;
+		&::before {
+			background-color: $color-red;
+			border-radius: em(10);
+			content: '';
+			height: 100%;
+			position: absolute;
+			right: 0;
+			top: 0;
+			width: em(100);
+		}
+	}
 }

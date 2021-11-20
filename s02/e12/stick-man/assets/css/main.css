@@ -1,27 +1,191 @@
-body {
+.page {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  min-height: 100vh;
   margin: 0;
+  min-height: 100vh;
+}
+
+.page__main {
+  margin: auto;
+}
+
+.page__title {
+  background: url(../img/eihp.svg) center center no-repeat;
+  background-size: 100% auto;
+  font-family: Roboto Slab, helvetica, arial, sans-serif;
+  font-size: 0.625em;
+  height: 0.0625em;
+  margin: 0 0 1.25em;
+  overflow: hidden;
+  padding-top: 20.6875em;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 0.125em 0.625em rgba(33, 33, 33, 0.3);
+  width: 41.4375em;
 }
 
 .stick-man {
-  width: 17.8125em;
+  color: black;
   height: 36.8125em;
   margin: auto;
-  background: pink;
   position: relative;
+  width: 17.8125em;
 }
 
 .stick-man::before {
-  content: '';
-  position: absolute;
+  background: url(../img/stick-man.png);
+  height: 100%;
   left: 0;
+  opacity: .3;
+  position: absolute;
   top: 0;
   width: 100%;
+  z-index: 3;
+}
+
+.stick-man::after {
+  background: radial-gradient(ellipse closest-side, rgba(33, 33, 33, 0.4), rgba(33, 33, 33, 0.2), rgba(33, 33, 33, 0));
+  border-radius: 50%;
+  bottom: -0.5em;
+  content: '';
+  -webkit-filter: blur(4px);
+          filter: blur(4px);
+  height: 4.0625em;
+  left: 50%;
+  position: absolute;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 100%;
+  z-index: 1;
+}
+
+.stick-man__head {
+  border: 1.25em solid currentColor;
+  border-radius: 50%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 15em;
+  margin: auto;
+  position: relative;
+  width: 15em;
+}
+
+.stick-man__face {
+  font-family: Roboto Slab;
+  font-size: 4.0625em;
+  font-weight: bold;
+  letter-spacing: 0.1875em;
+  margin: auto;
+  -webkit-transform: translate(0.125em, -0.125em);
+          transform: translate(0.125em, -0.125em);
+}
+
+.stick-man__face::before {
+  content: 'ojo';
+}
+
+.stick-man__body {
+  background: currentColor;
+  border-radius: 0 0 0.625em 0.625em;
+  height: 12.1875em;
+  margin: -0.125em auto 0;
+  position: relative;
+  width: 1.25em;
+  z-index: 2;
+}
+
+.stick-man__left-arms {
+  background-color: currentColor;
+  border-radius: 0.625em;
+  height: 1.25em;
+  left: 0.5em;
+  position: absolute;
+  top: 1.125em;
+  -webkit-transform-origin: left center;
+          transform-origin: left center;
+  width: 8.75em;
+}
+
+.stick-man__left-arms--left {
+  -webkit-transform: rotate(30deg);
+          transform: rotate(30deg);
+}
+
+.stick-man__left-arms--right {
+  left: 0.75em;
+  -webkit-transform: rotate(150deg);
+          transform: rotate(150deg);
+}
+
+.stick-man__feet {
+  background-color: currentColor;
+  border-radius: 0.625em;
+  height: 1.25em;
+  left: 0.4375em;
+  position: absolute;
+  top: 9.875em;
+  -webkit-transform-origin: left center;
+          transform-origin: left center;
+  width: 11.25em;
+}
+
+.stick-man__feet--left {
+  -webkit-transform: rotate(63deg);
+          transform: rotate(63deg);
+}
+
+.stick-man__feet--right {
+  left: 0.75em;
+  -webkit-transform: rotate(118deg);
+          transform: rotate(118deg);
+}
+
+.stick-man--blue {
+  color: #008aff;
+}
+
+.stick-man--red {
+  color: tomato;
+}
+
+.stick-man--spiderman .stick-man__face::before {
+  background: -webkit-gradient(linear, right top, left top, from(#212121), color-stop(45%, #212121), color-stop(45%, tomato), color-stop(70%, tomato), color-stop(70%, #212121), to(#212121));
+  background: linear-gradient(to left, #212121 0%, #212121 45%, tomato 45%, tomato 70%, #212121 70%, #212121 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.stick-man--spiderman .stick-man__body {
+  background-color: #008aff;
+}
+
+.stick-man--spiderman .stick-man__body::before {
+  background-color: tomato;
+  border-radius: 0 0 0.625em 0.625em;
+  content: '';
+  height: 3.75em;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.stick-man--spiderman .stick-man__feet {
+  background-color: #008aff;
+}
+
+.stick-man--spiderman .stick-man__feet::before {
+  background-color: tomato;
+  border-radius: 0.625em;
+  content: '';
   height: 100%;
-  background: url(../img/stick-man.png);
-  opacity: .3;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 6.25em;
 }
 /*# sourceMappingURL=main.css.map */

@@ -1,5 +1,24 @@
-body {
+.page {
 	display: flex;
-	min-height: 100vh;
 	margin: 0;
+	min-height: 100vh;
+}
+
+.page__main {
+	margin: auto;
+}
+
+.page__title {
+	background: url(../img/eihp.svg) center center no-repeat;
+	background-size: 100% auto;
+	font-family: Roboto Slab, helvetica, arial, sans-serif;
+	font-size: em(10);
+	height: em(1);
+	margin: 0 0 em(20);
+	overflow: hidden;
+	padding-top: em(662 / 2);
+	position: relative;
+	text-align: center;
+	text-shadow: 0 em(2) em(10) rgba($color-black, .3);
+	width: em(663);
 }
