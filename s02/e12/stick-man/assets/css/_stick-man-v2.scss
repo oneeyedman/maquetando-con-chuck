@@ -67,7 +67,7 @@
 		z-index: index($levels, body);
 	}
 
-	&__left-arms {
+	&__arms {
 		background-color: currentColor;
 		border-radius: em(10);
 		height: em($stick-width);
@@ -78,11 +78,11 @@
 		width: em(140);
 	}
 
-	&__left-arms--left {
+	&__arms--left {
 		transform: rotate(30deg);
 	}
 
-	&__left-arms--right {
+	&__arms--right {
 		left: em(12);
 		transform: rotate(150deg);
 	}

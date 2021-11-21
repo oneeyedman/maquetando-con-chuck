@@ -23,7 +23,8 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **S02E08 - Menú (3)** | [Vídeo: `2h y media`](https://youtu.be/Xsv9NlWP21w)
 1. **S02E09 - CSS Comb** | [Vídeo: `Media hora larga`](https://youtu.be/mDZu_E4pgok)
 1. **S02E10 - Checkbox y radio, accesibles y sin JS** | [Vídeo: `Casi 2h`](https://youtu.be/wf0R8G5kY-Q)
-1. **S02E11 - Figma para frontenders** | [Vídeo: `Casi 1h`](https://www.twitch.tv/videos/1205194502)
+1. **S02E11 - Figma para frontenders** | [Vídeo: `Casi 1h`](https://youtu.be/-aA27u48II4)
+1. **S02E12 - BEM** | [Vídeo: `Casi 45min`](https://www.twitch.tv/videos/1211766099)
 
 ---
 
@@ -47,6 +48,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 ### Temas siguientes
 
+- ??
 - Nuestro propio sistema de grid.
 - Sistema de plantillas: Nunjucks
 - Generador de estáticos: 11ty

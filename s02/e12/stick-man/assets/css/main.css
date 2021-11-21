@@ -98,7 +98,7 @@
   z-index: 2;
 }
 
-.stick-man__left-arms {
+.stick-man__arms {
   background-color: currentColor;
   border-radius: 0.625em;
   height: 1.25em;
@@ -110,12 +110,12 @@
   width: 8.75em;
 }
 
-.stick-man__left-arms--left {
+.stick-man__arms--left {
   -webkit-transform: rotate(30deg);
           transform: rotate(30deg);
 }
 
-.stick-man__left-arms--right {
+.stick-man__arms--right {
   left: 0.75em;
   -webkit-transform: rotate(150deg);
           transform: rotate(150deg);

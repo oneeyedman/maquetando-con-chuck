@@ -10,7 +10,7 @@
 	background: url(../img/stick-man.png);
 	height: 100%;
 	left: 0;
-	opacity: .3;
+	opacity: .9;
 	//content: '';
 	position: absolute;
 	top: 0;
@@ -67,7 +67,7 @@
 	z-index: index($levels, body);
 }
 
-.stick-man__left-arms {
+.stick-man__arms {
 	background-color: currentColor;
 	border-radius: em(10);
 	height: em($stick-width);
@@ -78,11 +78,11 @@
 	width: em(140);
 }
 
-.stick-man__left-arms--left {
+.stick-man__arms--left {
 	transform: rotate(30deg);
 }
 
-.stick-man__left-arms--right {
+.stick-man__arms--right {
 	left: em(12);
 	transform: rotate(150deg);
 }
