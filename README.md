@@ -52,8 +52,9 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 ### Temas siguientes
 
+- Generador de estáticos: 11ty + Nunjucks
+- Conceptos de diseño para frontenders o no diseñistas
+- Emails... RESPONSIVE
+- Una web fácil (personal, portfolio, cv online)
 - ??
-- Nuestro propio sistema de grid.
-- Sistema de plantillas: Nunjucks
-- Generador de estáticos: 11ty
 - [👍 Quieres proponer un tema o elemento?](https://github.com/oneeyedman/maquetando-con-chuck/issues/1)
