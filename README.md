@@ -11,6 +11,10 @@ Por eso, el domingo quiero dedicar un rato a **maquetar en directo**. A recalcar
 ## Sesiones
 Durante unos días los vídeos seguirán en el canal de Twitch pero luego los dejaré subidos en Youtube en [esta playlist](https://www.youtube.com/playlist?list=PLO-mtrYE0827SRqJnPOOU1OQLbN_OZpT6).
 
+### Termporada 3
+
+1. **s03_e01 - Estilos para lista de tareas** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1445012341)
+
 ### Termporada 2
 
 1. **S02E01 - Botones** | [Vídeo: `Casi 2h`](https://youtu.be/EPJY2-N5yFw)
