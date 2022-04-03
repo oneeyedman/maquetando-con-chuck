@@ -1,0 +1,237 @@
+.sr {
+	border: 0 !important;
+	clip: rect(1px, 1px, 1px, 1px) !important;
+	height: 1px !important;
+	margin: -1px !important;
+	overflow: hidden !important;
+	padding: 0 !important;
+	position: absolute !important;
+	white-space: nowrap !important;
+	width: 1px !important;
+
+	clip-path: inset(50%) !important;
+}
+
+
+
+
+
+.app {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+.app__wrapper {
+	margin: 0 30px;
+}
+
+@media screen and (min-width: 768px) {
+	.app__wrapper {
+		margin: 0 auto;
+		max-width: 708px;
+	}
+}
+
+
+
+
+
+.app__panel {
+	background: linear-gradient(to bottom, #ffffff 0%, rgba(244, 245, 246, .3) 100%);
+	border-radius: 16px;
+	box-shadow: 0 4px 18px rgba(0, 0, 0, .15);
+	margin: 20px 0;
+	padding: 30px;
+	position: relative;
+}
+
+.app__panel::before,
+.app__panel::after {
+	background: inherit;
+	border-radius: inherit;
+	content: '';
+	height: 100%;
+	left: 10px;
+	opacity: .5;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	z-index: -1;
+}
+
+.app__panel::after {
+	content: '';
+	left: 20px;
+	opacity: .25;
+	right: 20px;
+	top: 20px;
+}
+
+
+
+
+
+.app__header {
+  border-bottom: 1px solid #e4e5e6;
+  padding: 0 30px;
+  margin: 0 -30px;
+  position: relative;
+}
+
+/* .app__header::after {
+  content: '';
+  height: 1px;
+  background-color: blue;
+  position: absolute;
+  bottom: 0;
+  left: -30px;
+  right: -30px;
+} */
+
+.app__title {
+	font-size: 20px;
+  margin: 0;
+	padding: 0 0 15px;
+  display: flex;
+}
+
+.app__title::before {
+  content: '';
+  width: 40px;
+  height: 24px;
+  background: url(/public/images/icon.svg) center no-repeat;
+}
+
+
+
+
+
+.app__main {
+	/**/
+}
+
+
+
+
+
+.app__add-todo {
+	/**/
+}
+.app__add-todo-form {
+	/**/
+}
+
+
+
+
+
+.form {
+	/**/
+}
+.form__row {
+	/**/
+}
+.form__label {
+	/**/
+}
+.form__field {
+	/**/
+}
+
+
+
+
+
+.app__todo {
+	/**/
+}
+.app__todo-title {
+	/**/
+}
+.app__todo-list {
+	list-style: none;
+	margin: 1em 0 0;
+	padding: 0;
+}
+
+.app__todo-item {
+	display: flex;
+}
+
+.app__todo-item + .app__todo-item {
+	margin-top: .25em;
+}
+
+
+
+
+
+.task {
+	display: inline-block;
+	line-height: 30px;
+	overflow: hidden;
+	padding-right: 40px;
+	position: relative;
+}
+
+.task__label {
+	/**/
+}
+
+.task__field {
+	/**/
+}
+
+.task__completion-date {
+	opacity: .5;
+}
+
+.task__completion-date::before {
+	content: ' ';
+}
+
+.task__delete-me {
+	background: url(/public/images/trash.svg) center no-repeat;
+	background-size: 20px;
+	border: 0;
+	cursor: pointer;
+	height: 1px;
+	left: 200%;
+	overflow: hidden;
+	padding-top: 30px;
+	position: absolute;
+	top: 50%;
+	transform: translate(-100%, -50%);
+	width: 30px;
+}
+
+.task__delete-me:focus,
+.task:hover .task__delete-me {
+	left: 100%;
+}
+
+
+
+
+
+.task--done {
+	/**/
+}
+
+.task--done .task__label {
+	opacity: .75;
+}
+
+.task--done::after {
+	background-color: black;
+	content: '';
+	height: 1px;
+	left: 20px;
+	opacity: .25;
+	position: absolute;
+	right: 40px;
+	top: 50%;
+	transform: translateY(50%);
+}
