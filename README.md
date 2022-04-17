@@ -15,6 +15,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 1. **s03_e01 - Estilos para lista de tareas** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1445012341)
 1. **s03_e02 - Generador de estáticos: 11ty (1/2)** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1451746873)
+1. **s03_e03 - Generador de estáticos: 11ty (2/2)** | [Vídeo: `Más de hora y media`](https://www.twitch.tv/videos/1458536314)
 
 ### Termporada 2
 

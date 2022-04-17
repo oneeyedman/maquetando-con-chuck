@@ -1,0 +1,7 @@
+<ul class="todos__list">
+	{% for task in todos %}
+		<li class="todos__list-item {{ 'todos__list-item--done' if task.completed }}">
+			{% include "_partials/task.njk" %}
+		</li>
+	{% endfor %}
+</ul>

@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+lang: es_ES
+title: Mi página con 11ty
+---
+{% set myTitle = {
+	label: 'Soy index pero desde Nunjucks',
+	class: 'title title--main'
+} %}
+{% include "_partials/main-title.njk" %}
+
+<section class="blog">
+	<h2 class="blog__title">Mis posts</h2>
+
+	<ul class="blog__list">		
+		{% for post in collections.blog %}
+		<li class="blog__list-item">
+			<a href="{{ post.url }}">
+				{{ post.data.date }}<br>
+				{{ post.data.title }} {{ post.data.paquito }}</a>
+		</li>
+		{% endfor %}
+	</ul>
+</section>
+
+<section class="todos">
+	<h2 class="todos__title">Mis oraciones</h2>
+	{% include "_partials/todo-list.njk" %}
+</section>
+
