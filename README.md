@@ -16,6 +16,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **s03_e01 - Estilos para lista de tareas** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1445012341)
 1. **s03_e02 - Generador de estáticos: 11ty (1/2)** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1451746873)
 1. **s03_e03 - Generador de estáticos: 11ty (2/2)** | [Vídeo: `Más de hora y media`](https://www.twitch.tv/videos/1458536314)
+1. **s03_e04 - Input de tipo range** | [Vídeo: `2h`](https://www.twitch.tv/videos/1471971817)
 
 ### Termporada 2
 
@@ -54,9 +55,8 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 ### Temas siguientes
 
-- Generador de estáticos: 11ty + Nunjucks
-- Conceptos de diseño para frontenders o no diseñistas
 - Emails... RESPONSIVE
+- Conceptos de diseño para frontenders o no diseñistas
 - Una web fácil (personal, portfolio, cv online)
 - ??
 - [👍 Quieres proponer un tema o elemento?](https://github.com/oneeyedman/maquetando-con-chuck/issues/1)
