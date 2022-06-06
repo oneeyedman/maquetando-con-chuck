@@ -18,6 +18,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **s03_e03 - Generador de estáticos: 11ty (2/2)** | [Vídeo: `Más de hora y media`](https://www.twitch.tv/videos/1458536314)
 1. **s03_e04 - Input de tipo range** | [Vídeo: `2h`](https://www.twitch.tv/videos/1471971817)
 1. **s03_e05 - [serie] Emails - 1** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1484475434)
+1. **s03_e06 - [serie] Emails - 2** | [Vídeo: `Casi tres horas`](https://www.twitch.tv/videos/1495172950)
 
 ### Termporada 2
 
