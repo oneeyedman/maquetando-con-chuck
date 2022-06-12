@@ -13,12 +13,13 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 ### Termporada 3
 
-1. **s03_e01 - Estilos para lista de tareas** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1445012341)
-1. **s03_e02 - Generador de estáticos: 11ty (1/2)** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1451746873)
-1. **s03_e03 - Generador de estáticos: 11ty (2/2)** | [Vídeo: `Más de hora y media`](https://www.twitch.tv/videos/1458536314)
+1. **s03_e01 - Estilos para lista de tareas** | [Vídeo: `Casi hora y media`](https://youtu.be/vSTdG3JmebI)
+1. **s03_e02 - Generador de estáticos: 11ty (1/2)** | [Vídeo: `Casi hora y media`](https://youtu.be/kk6PEE6w8iA)
+1. **s03_e03 - Generador de estáticos: 11ty (2/2)** | [Vídeo: `Más de hora y media`](https://youtu.be/9vXR57K3JQk)
 1. **s03_e04 - Input de tipo range** | [Vídeo: `2h`](https://www.twitch.tv/videos/1471971817)
 1. **s03_e05 - [serie] Emails - 1** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1484475434)
 1. **s03_e06 - [serie] Emails - 2** | [Vídeo: `Casi tres horas`](https://www.twitch.tv/videos/1495172950)
+1. **s03_e07 - [serie] Emails - 3** | [Vídeo: `Casi dos horas`](https://www.twitch.tv/videos/1501563152)
 
 ### Termporada 2
 
