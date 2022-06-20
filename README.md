@@ -20,6 +20,8 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **s03_e05 - [serie] Emails - 1** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1484475434)
 1. **s03_e06 - [serie] Emails - 2** | [Vídeo: `Casi tres horas`](https://www.twitch.tv/videos/1495172950)
 1. **s03_e07 - [serie] Emails - 3** | [Vídeo: `Casi dos horas`](https://www.twitch.tv/videos/1501563152)
+1. **s03_e08 - [serie] Emails - 4** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1508002244)
+
 
 ### Termporada 2
 
