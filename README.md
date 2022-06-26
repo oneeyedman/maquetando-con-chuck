@@ -16,11 +16,12 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **s03_e01 - Estilos para lista de tareas** | [Vídeo: `Casi hora y media`](https://youtu.be/vSTdG3JmebI)
 1. **s03_e02 - Generador de estáticos: 11ty (1/2)** | [Vídeo: `Casi hora y media`](https://youtu.be/kk6PEE6w8iA)
 1. **s03_e03 - Generador de estáticos: 11ty (2/2)** | [Vídeo: `Más de hora y media`](https://youtu.be/9vXR57K3JQk)
-1. **s03_e04 - Input de tipo range** | [Vídeo: `2h`](https://www.twitch.tv/videos/1471971817)
+1. **s03_e04 - Input de tipo range** | [Vídeo: `2h`](https://youtu.be/USKQ6zw9Jaw)
 1. **s03_e05 - [serie] Emails - 1** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1484475434)
 1. **s03_e06 - [serie] Emails - 2** | [Vídeo: `Casi tres horas`](https://www.twitch.tv/videos/1495172950)
 1. **s03_e07 - [serie] Emails - 3** | [Vídeo: `Casi dos horas`](https://www.twitch.tv/videos/1501563152)
-1. **s03_e08 - [serie] Emails - 4** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1508002244)
+1. **s03_e08 - [serie] Semántica, módulos y email "The Eye" /4** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1508002244)
+1. **s03_e09 - [serie] Email "real" /5** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1514517631)
 
 
 ### Termporada 2
@@ -55,6 +56,10 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **S01E10 - SASS/SCSS** | [Vídeo: `Dos horas y media`](https://youtu.be/HSC4_yrzP94)
 1. **S01E11 - VS Code** | [Vídeo: `Más de 1h y media`](https://youtu.be/dLceE1kW604)
 1. **S01E12 - Proyectos** | [Vídeo: `1h y algo`](https://youtu.be/_z5Ry7uY6NA)
+
+## Recursos
+- [Figma con emails responsive](https://www.figma.com/file/zMsjzt26T1k7dRgQU6yn4T/mails-responsive?node-id=149%3A311)
+- [Carpeta de Drive con las imágenes optimizadas](https://drive.google.com/drive/folders/1A1WN0QZ_emEgBehKdSVI1_8LG2eDedAM?usp=sharing)
 
 ---
 
