@@ -2,14 +2,14 @@
 
 Maquetar es de las cosas que más me molan, que más impacto tiene y que menos se respetan.
 
-Por eso, el domingo quiero dedicar un rato a **maquetar en directo**. A recalcar la importancia de la **semántica**, a animarnos a hacer nuestos componentes **más accesibles** y a que todo el javascript del mundo da igual sin una base sólida de HTML y CSS.
+Por eso, el domingo quiero dedicar un rato a **maquetar en directo**. A recalcar la importancia de la **semántica**, a animarnos a hacer nuestros componentes **más accesibles** y a que todo el javascript del mundo da igual sin una base sólida de HTML y CSS.
 
 **¿Te bajas a maquetar?** ¿o qué?
 
-![Maquetando con Chuck!](maquetando-con-chuck.png)
+![Maquetando con Chuck! Temporada 3](maquetando-con-chuck-s03.png)
 
 ## Sesiones
-Durante unos días los vídeos seguirán en el canal de Twitch pero luego los dejaré subidos en Youtube en [esta playlist](https://www.youtube.com/playlist?list=PLO-mtrYE0827SRqJnPOOU1OQLbN_OZpT6).
+Durante unos días los vídeos seguirán en el canal de Twitch pero luego los dejaré subidos en [mi canal de Youtube](https://www.youtube.com/c/chuck-as-usual) en [esta playlist](https://www.youtube.com/playlist?list=PLO-mtrYE0827SRqJnPOOU1OQLbN_OZpT6).
 
 ### Termporada 3
 
