@@ -66,6 +66,7 @@
 			.true-evil__summary {
 				display: block !important;
 				width: 100% !important;
+				box-sizing: border-box;
 			}
 
 			.true-evil__summary-1 {
@@ -74,6 +75,31 @@
 			
 			.true-evil__summary-2 {
 				border-radius: 0 !important;
+			}
+
+			.true-evil__account-cell {
+				display: block !important;
+				width: 100% !important;
+				box-sizing: border-box;
+				padding: 10px !important;
+				mso-padding-alt: 10px !important;
+				text-align: center !important;
+			}
+			
+			.true-evil__account-cell-1 {
+				border-radius: 3px 3px 0 0 !important;
+			}
+			.true-evil__account-cell-2,
+			.true-evil__account-cell-3,
+			.true-evil__account-cell-4,
+			.true-evil__account-cell-5 {
+				border-radius: 0 !important
+			}
+			.true-evil__account-cell-6 {
+				border-radius: 0 0 3px 3px !important;
+			}
+			.true-evil__account-divider {
+				display: none !important;
 			}
 		}
 
@@ -120,24 +146,84 @@
 									</td>
 									<td valign="top" width="*" style="padding:6px 50px 25px 14px;mso-padding-alt:6px 50px 25px 14px;color: #323232;font-family:arial, sans-serif;" class="true-evil__step-block">
 										<h2 class="true-evil__subtitle" style="font-size:20px;font-weight:bold;line-height: 23px;mso-line-height-rule: exactly;margin:0 0 10px;mso-margin-alt:0 0 10px;">Detalles de tu venta.</h2>
-										<p style="margin:0;mso-margin-alt:0;font-size:16px;line-height: 18px;mso-line-height-rule:exactly;">Tu resumen:</p>
+										<p style="margin:0 0 15px;mso-margin-alt:0 0 15px;font-size:16px;line-height: 18px;mso-line-height-rule:exactly;">Tu resumen:</p>
 										
 										<!-- RESUMEN -->
 										<table cellspacing="0" cellpadding="0" width="100%" border="0">
 											<tr>
-												<td valign="top" width="50%" bgcolor="crimson" class="true-evil__summary true-evil__summary-1" style="border-radius:3px 0 0 0">
-													Super verde
+												<td width="50%" bgcolor="#5FB099" class="true-evil__summary true-evil__summary-1" style="border-radius:3px 0 0 0;padding:15px 10px;mso-padding-alt:15px 10px;">
+
+													<table cellspacing="0" cellpadding="0" width="100%" border="0">
+														<tr>
+															<td>
+																<img src="https://spacenomads.com/mail/true-evil-heart.png" width="30" alt="">	
+															</td>
+															<td style="padding-left:15px;mso-padding-left-alt:15px;font-family: arial, sans-serif;color:#ffffff;line-height:22px;mso-line-height-rule:exactly;">
+																<h3 style="margin:0;mso-margin-alt:0;font-size:14px;-webkit-text-size-adjust: none;font-weight:bold;">VALOR</h3>
+																<p style="margin:0;mso-margin-alt:0;font-size:14px;-webkit-text-size-adjust: none;">
+																	<span style="font-size:19px;color:#ffffff !important;">666.666.666,666</span><br>
+																	Íntegro
+																</p>	
+															</td>
+														</tr>
+													</table>
+
 												</td>
-												<td valign="top" width="50%" bgcolor="lime" class="true-evil__summary true-evil__summary-2" style="border-radius:0 3px 3px 0">
-													Verde
+												<td valign="top" width="50%" bgcolor="#CFE7E0" class="true-evil__summary true-evil__summary-2" style="border-radius:0 3px 3px 0;padding:15px 15px 20px;mso-padding-alt:15px 15px 20px;">
+
+													<table cellspacing="0" cellpadding="0" width="100%" border="0" style="font:14px arial, sans-serif;-webkit-text-size-adjust: none;color:#323232;">
+														<tr>
+															<td width="*">
+																<h3 style="margin:0;mso-margin-alt:0;font-size:14px;-webkit-text-size-adjust: none;font-weight:bold;">FIRMAS</h3>
+															</td>
+															<td width="66" align="right" style="padding-left:10px;mso-padding-left-alt:10px;">
+																<table cellspacing="0" cellpadding="0" width="100%" border="0">
+																	<tr>
+																		<td valign="top" style="padding:4px;mso-padding-alt:4px;color:#ffffff;font-size:10px;font-family:arial, sans-serif;-webkit-text-size-adjust: none;border-radius:3px;text-align:center;" bgcolor="#EA7069">
+																			PENDIENTE
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td valign="top" colspan="2" style="padding-top:10px;mso-padding-top-alt:10px;">
+																<p style="margin:0;mso-margin-alt:0;">
+																	<span style="font-size:10px;-webkit-text-size-adjust:none;">Principal</span><br>
+																	Nombre apellido apellido
+																</p>
+																<p style="margin:15px 0 0;mso-margin-alt:15px 0 0;">
+																	<span style="font-size:10px;-webkit-text-size-adjust:none;">Secundaria</span><br>
+																	Nombre apellido apellido
+																</p>
+															</td>
+														</tr>
+													</table>
 												</td>
 											</tr>
-										</table>
-										<table cellspacing="0" cellpadding="0" width="50%" border="0" class="true-evil__summary-bank">
 											<tr>
-												<td valign="top" bgcolor="orange" class="true-evil__summary" style="border-radius:0 0 3px 3px">
-													Gris
+												<td valign="top" bgcolor="#ebebeb" class="true-evil__summary" style="border-radius:0 0 3px 3px;padding:15px 15px 30px;mso-padding-alt:15px 15px 30px;">
+													<table cellspacing="0" cellpadding="0" width="100%" border="0" style="font:14px arial, sans-serif;-webkit-text-size-adjust:none;color:#323232;">
+														<tr>
+															<td width="*" style="font-weight:bold;">
+																<h3 style="margin:0;mso-margin-alt:0;font-size:14px;-webkit-text-size-adjust: none;font-weight:bold;">CUENTAS BANCARIAS</h3>
+															</td>
+														</tr>
+														<tr>
+															<td valign="top" style="padding-top:10px;mso-padding-top-alt:10px;font-size:11px;-webkit-text-size-adjust:none;">
+																<p style="margin:0;mso-margin-alt:0;">
+																	<span style="font-size:10px;-webkit-text-size-adjust:none;">Principal</span><br>
+																	IT67R00540053185LS797A96A31
+																</p>
+																<p style="margin:15px 0 0;mso-margin-alt:15px 0 0;">
+																	<span style="font-size:10px;-webkit-text-size-adjust:none;">Secundaria</span><br>
+																	IT45Q2600890467387JO5270843
+																</p>
+															</td>
+														</tr>
+													</table>
 												</td>
+												<td class="true-evil__summary"></td>
 											</tr>
 										</table>
 										<!-- FIN RESUMEN -->
@@ -186,6 +272,83 @@
 								</tr>
 							</table>
 							<!-- FIN TERCER PASO -->
+
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" bgcolor="#B9DCD2" style="padding:0 30px;mso-padding-alt:0 30px;" class="true-evil__main-col">
+							
+							<!-- CUARTO PASO -->
+							<table cellspacing="0" cellpadding="0" width="100%" border="0">
+								<tr>
+									<td valign="top" width="36" background="https://spacenomads.com/mail/true-evil-tl-dark-green.png" style="padding-top:15px;mso-padding-top-alt:15px;">
+										<img src="https://spacenomads.com/mail/true-evil-steps-check-dark.png" width="36" alt="Icono de check por paso completado">
+									</td>
+									<td valign="top" width="*" style="padding:21px 50px 25px 14px;mso-padding-alt:21px 50px 25px 14px;color: #323232;font-family:arial, sans-serif;" class="true-evil__step-block">
+										<h2 class="true-evil__subtitle" style="font-size:20px;font-weight:bold;line-height: 23px;mso-line-height-rule: exactly;margin:0 0 10px;mso-margin-alt:0 0 10px;">Tu transferencia llegará en los próximos días.</h2>
+										<p style="margin:0 0 15px;mso-margin-alt:0 0 15px;font-size:16px;line-height: 18px;mso-line-height-rule:exactly;">Recuerda que<strong> la transferencia se intentará 1 sola vez en cada cuenta, por orden</strong>. De no aceptarse en ninguna de las cuentas se mantine el proceso de venta igualmente.</p>
+
+										<!-- BLOQUE CUENTAS -->
+										<table cellspacing="0" cellpadding="0" width="100%" border="0" style="font-family:arial, sans-serif;font-size:12px;-webkit-text-size-adjust: none;font-weight:bold;border-radius:3px;" bgcolor="3B6F61">
+											<tr>
+												<th valign="bottom" class="true-evil__account-cell true-evil__account-cell-1" bgcolor="#3B6F61" style="border-radius: 3px 0 0 0;text-align:left;padding:15px 15px 0 15px;mso-padding-alt:15px 15px 0 15px;color:#ffffff;font-size:14px;-webkit-text-size-adjust: none;">
+													ORDEN
+													<table cellspacing="0" cellpadding="0" border="0" width="20" height="2" class="true-evil__account-divider" style="font-size:0;">
+														<tr>
+															<td valign="top" style="padding-top:13px;mso-padding-top-alt:13px;"  height="2">
+																<img src="https://spacenomads.com/mail/true-evil-green-divider.png" width="20" height="2" alt="" style="display:block;">
+															</td>
+														</tr>
+													</table>
+												</th>
+												<td valign="bottom" class="true-evil__account-cell true-evil__account-cell-2" bgcolor="#ffffff" style="border-radius: 0 3px 0 0;padding:15px 15px 0 15px;mso-padding-alt:15px 15px 0 15px;">
+													87833845
+													<table cellspacing="0" cellpadding="0" border="0" width="20" height="2" class="true-evil__account-divider" style="font-size:0;">
+														<tr>
+															<td valign="top" style="padding-top:13px;mso-padding-top-alt:13px;"  height="2">
+																<img src="https://spacenomads.com/mail/true-evil-grey-divider.png" width="20" height="2" alt="" style="display:block;">
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<th valign="bottom" class="true-evil__account-cell true-evil__account-cell-3" bgcolor="#3B6F61" style="text-align:left;padding:15px 15px 0 15px;mso-padding-alt:15px 15px 0 15px;color:#ffffff;font-size:14px;-webkit-text-size-adjust: none;">
+													PRINCIPAL
+													<table cellspacing="0" cellpadding="0" border="0" width="20" height="2" class="true-evil__account-divider" style="font-size:0;">
+														<tr>
+															<td valign="top" style="padding-top:13px;mso-padding-top-alt:13px;"  height="2">
+																<img src="https://spacenomads.com/mail/true-evil-green-divider.png" width="20" height="2" alt="" style="display:block;">
+															</td>
+														</tr>
+													</table>
+												</th>
+												<td valign="bottom" class="true-evil__account-cell true-evil__account-cell-4" bgcolor="#ffffff" style="padding:15px 15px 0 15px;mso-padding-alt:15px 15px 0 15px;">
+													IT67R00540053185LS797A96A31
+													<table cellspacing="0" cellpadding="0" border="0" width="20" height="2" class="true-evil__account-divider" style="font-size:0;">
+														<tr>
+															<td valign="top" style="padding-top:13px;mso-padding-top-alt:13px;"  height="2">
+																<img src="https://spacenomads.com/mail/true-evil-grey-divider.png" width="20" height="2" alt="" style="display:block;">
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<th class="true-evil__account-cell true-evil__account-cell-5" bgcolor="#3B6F61" style="border-radius: 0 0 0 3px;text-align:left;padding:15px;mso-padding-alt:15px;color:#ffffff;font-size:14px;-webkit-text-size-adjust: none;">
+													SECUNDARIA
+												</th>
+												<td class="true-evil__account-cell true-evil__account-cell-6" bgcolor="#ffffff" style="border-radius:0 0 3px 0;padding:15px;mso-padding-alt:15px;">
+													IT45Q2600890467387JO5270843
+												</td>
+											</tr>
+										</table>
+										<!-- FIN BLOQUE CUENTAS -->
+
+									</td>
+								</tr>
+							</table>
+							<!-- FIN CUARTO PASO -->
 
 						</td>
 					</tr>
