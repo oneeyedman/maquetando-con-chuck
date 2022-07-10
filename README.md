@@ -23,6 +23,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **s03_e08 - [serie] Semántica, módulos y email "The Eye" /4** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1508002244)
 1. **s03_e09 - [serie] Email "real" /5** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1514517631)
 1. **s03_e10 - [serie] Email "real" /6** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1521096353)
+1. **s03_e11 - [serie] Email "real" /7** | [Vídeo: `Casi 4 horas`](https://www.twitch.tv/videos/1527640785)
 
 
 ### Termporada 2
