@@ -17,13 +17,14 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **s03_e02 - Generador de estáticos: 11ty (1/2)** | [Vídeo: `Casi hora y media`](https://youtu.be/kk6PEE6w8iA)
 1. **s03_e03 - Generador de estáticos: 11ty (2/2)** | [Vídeo: `Más de hora y media`](https://youtu.be/9vXR57K3JQk)
 1. **s03_e04 - Input de tipo range** | [Vídeo: `2h`](https://youtu.be/USKQ6zw9Jaw)
-1. **s03_e05 - [serie] Introducción al email responsive /1** | [Vídeo: `Casi hora y media`](https://www.twitch.tv/videos/1484475434)
-1. **s03_e06 - [serie] Mi primer email, ¡Chispas! /2** | [Vídeo: `Casi tres horas`](https://www.twitch.tv/videos/1495172950)
+1. **s03_e05 - [serie] Introducción al email responsive /1** | [Vídeo: `Casi hora y media`](https://youtu.be/qPSO_ixTh0E)
+1. **s03_e06 - [serie] Mi primer email, ¡Chispas! /2** | [Vídeo: `Casi tres horas`](https://youtu.be/44UbfyU6rlo)
 1. **s03_e07 - [serie] Email “The Eye” /3** | [Vídeo: `Casi dos horas`](https://www.twitch.tv/videos/1501563152)
 1. **s03_e08 - [serie] Semántica, módulos y email "The Eye" /4** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1508002244)
 1. **s03_e09 - [serie] Email "real" /5** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1514517631)
 1. **s03_e10 - [serie] Email "real" /6** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1521096353)
 1. **s03_e11 - [serie] Email "real" /7** | [Vídeo: `Casi 4 horas`](https://www.twitch.tv/videos/1527640785)
+1. **s03_e12 - [serie] Email responsive: tips /8 | Maquetando con Chuck!** | [Vídeo: `2 horas`](https://www.twitch.tv/videos/1534297693)
 
 
 ### Termporada 2
@@ -67,7 +68,6 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 ### Temas siguientes
 
-- Emails... RESPONSIVE (Serie comenzada)
 - Conceptos de diseño para frontenders o no diseñistas
 - Una web fácil (personal, portfolio, cv online)
 - ??
