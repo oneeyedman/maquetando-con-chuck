@@ -19,12 +19,12 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 1. **s03_e04 - Input de tipo range** | [Vídeo: `2h`](https://youtu.be/USKQ6zw9Jaw)
 1. **s03_e05 - [serie] Introducción al email responsive /1** | [Vídeo: `Casi hora y media`](https://youtu.be/qPSO_ixTh0E)
 1. **s03_e06 - [serie] Mi primer email, ¡Chispas! /2** | [Vídeo: `Casi tres horas`](https://youtu.be/44UbfyU6rlo)
-1. **s03_e07 - [serie] Email “The Eye” /3** | [Vídeo: `Casi dos horas`](https://www.twitch.tv/videos/1501563152)
-1. **s03_e08 - [serie] Semántica, módulos y email "The Eye" /4** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1508002244)
-1. **s03_e09 - [serie] Email "real" /5** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1514517631)
-1. **s03_e10 - [serie] Email "real" /6** | [Vídeo: `Tres horas`](https://www.twitch.tv/videos/1521096353)
-1. **s03_e11 - [serie] Email "real" /7** | [Vídeo: `Casi 4 horas`](https://www.twitch.tv/videos/1527640785)
-1. **s03_e12 - [serie] Email responsive: tips /8 | Maquetando con Chuck!** | [Vídeo: `2 horas`](https://www.twitch.tv/videos/1534297693)
+1. **s03_e07 - [serie] Email “The Eye” /3** | [Vídeo: `Casi dos horas`](https://youtu.be/wycUkl9Yzvk)
+1. **s03_e08 - [serie] Semántica, módulos y email "The Eye" /4** | [Vídeo: `Tres horas`](https://youtu.be/wB7uRu_IVZ0)
+1. **s03_e09 - [serie] Email "real" /5** | [Vídeo: `Tres horas`](https://youtu.be/YwrBHsmTinM)
+1. **s03_e10 - [serie] Email "real" /6** | [Vídeo: `Tres horas`](https://youtu.be/O8bV4rE_0Ck)
+1. **s03_e11 - [serie] Email "real" /7** | [Vídeo: `Casi 4 horas`](https://youtu.be/zMlxTZczRAE)
+1. **s03_e12 - [serie] Email responsive: tips /8 | Maquetando con Chuck!** | [Vídeo: `2 horas`](https://youtu.be/zCJg1h4y8jI)
 
 
 ### Termporada 2
@@ -46,8 +46,8 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 ### Temporada 1
 
-1. **S01E00 - Tooltip** | [Vídeo 1: `Casi 1h`](https://www.youtube.com/watch?v=pwtNFzrbNAM), [vídeo 2: `casi 1h`](https://www.youtube.com/watch?v=SqGFoHnJg60)
-1. **S01E01 - HTML (y semántica)** | [Vídeo: `1h y cuarto`](https://www.youtube.com/watch?v=5vATBkG4Ijw)
+1. **S01E00 - Tooltip** | [Vídeo 1: `Casi 1h`](https://youtu.be/pwtNFzrbNAM), [vídeo 2: `casi 1h`](https://youtu.be/SqGFoHnJg60)
+1. **S01E01 - HTML (y semántica)** | [Vídeo: `1h y cuarto`](https://youtu.be/5vATBkG4Ijw)
 1. **S01E02 - Módulo de vídeos destacados** | [Vídeo: `casi 1h`](https://youtu.be/UTLDi4RBx0U)
 1. **S01E03 - Footer 1/2** | [Vídeo: `1h y cuarto`](https://youtu.be/5WGKZnxy4b4)
 1. **S01E04 - Footer 2/2** | [Vídeo: `Dos horacas`](https://youtu.be/tVqJOHIjB0w)
@@ -70,5 +70,7 @@ Durante unos días los vídeos seguirán en el canal de Twitch pero luego los de
 
 - Conceptos de diseño para frontenders o no diseñistas
 - Una web fácil (personal, portfolio, cv online)
-- ??
+- Linter JS: Eslint
+- Linter CSS: Stylelint
+- Sass Dart
 - [👍 Quieres proponer un tema o elemento?](https://github.com/oneeyedman/maquetando-con-chuck/issues/1)
