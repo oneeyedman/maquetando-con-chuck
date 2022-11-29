@@ -6,7 +6,7 @@ Por eso, el domingo quiero dedicar un rato a **maquetar en directo**. A recalcar
 
 **¿Te bajas a maquetar?** ¿o qué?
 
-![Maquetando con Chuck! Temporada 3](maquetando-con-chuck-s03.png)
+![Maquetando con Chuck!](maquetando-con-chuck-alt.png)
 
 ## Sesiones
 Durante unos días los vídeos seguirán en el canal de Twitch pero luego los dejaré subidos en [mi canal de Youtube](https://www.youtube.com/c/chuck-as-usual) en [esta playlist](https://www.youtube.com/playlist?list=PLO-mtrYE0827SRqJnPOOU1OQLbN_OZpT6).
